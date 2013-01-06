@@ -1,0 +1,21 @@
+{
+  "name": "cake-async",
+  "description": "Asynchronous tasks for Cakefiles",
+  "version": "0.1.0",
+  "main": "main.coffee",
+  "dependencies": {
+  },
+  "devDependencies": {
+    "mocha": "",
+    "coffee-script": ""
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ricardobeat/cake-async.git"
+  },
+  "author": "Ricardo Tomasi <ricardo.cc>",
+  "license": "MIT (ricardo.mit-license.org)"
+}
