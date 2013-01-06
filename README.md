@@ -35,3 +35,9 @@ The function given to `async.end()` will be called when all tasks have finished.
         invoke async 'minify'
         async.end => console.log 'done!'
 
+Tests
+-----
+
+    npm install
+    npm install mocha -g # skip if you already have it
+    ./mocha
